@@ -1,0 +1,13 @@
+{
+    "name": "Admincp",
+    "alias": "admincp",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Admincp\\Providers\\AdmincpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
